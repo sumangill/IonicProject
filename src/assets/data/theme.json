@@ -1,0 +1,32 @@
+{
+	"eventsetup" : {
+			"title":"ADC Salesperson App Setupt",
+			"fields":[
+				{
+				"fieldname" : "onekeyid",
+				"type"		: "text",
+				"placeholder": "One Key ID",
+				"Required"  : "Yes"
+			},
+			{
+				"fieldname" : "onekeyvenuename",
+				"type"		: "text",
+				"placeholder": "One Key Venue Name",
+				"Required"  : "Yes"
+			},
+			{
+				"fieldname" : "date",
+				"type"		: "date",
+				"placeholder": "dd-mm-yyyy",
+				"Required"  : "Yes"
+			}
+			],
+			"button" : {
+				"text" : "Create New Event",
+				"align" : "left",
+				"buttonClass" : ""
+			}
+
+	}
+}
+
